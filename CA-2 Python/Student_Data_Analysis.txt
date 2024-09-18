@@ -1,0 +1,6 @@
+Title - Student Data Analysis
+
+Name		Registration Number	Title of Project
+
+Sagar Gupta		12323605		Student Data Analysis
+Rafaquat Hussain	123243187		Student Data Analysis
